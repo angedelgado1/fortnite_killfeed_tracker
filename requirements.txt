@@ -1,0 +1,8 @@
+streamlit
+flask
+opencv-python
+easyocr
+requests
+numpy
+rapidfuzz
+pyautogui
