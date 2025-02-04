@@ -21,4 +21,5 @@ with col2:
     for kill in reversed(kill_data):
         st.markdown(f"**[{kill['timestamp']}] {kill['killer']} eliminated {kill['victim']}** ({kill['weapon']})")
 
-st.experimental_rerun()
+st.rerun()
+

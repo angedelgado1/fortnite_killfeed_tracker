@@ -1,0 +1,22 @@
+# Ignore Python virtual environments
+venv/
+.env
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore log files
+*.log
+
+# Ignore test videos and images (optional)
+test_videos/
+test_images/
+
+# Ignore system files (macOS)
+.DS_Store
+
+# Ignore Streamlit cache
+.streamlit/
